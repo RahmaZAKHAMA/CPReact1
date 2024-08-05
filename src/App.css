@@ -1,0 +1,9 @@
+#card-container{
+    display: flex;
+    justify-content:center ;
+}
+#profile-pic
+{
+    width:200px;
+    height: 200px;
+}
